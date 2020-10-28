@@ -19,6 +19,4 @@ chmod +x *
 cd FTPAnon
 service vsftpd start
 
-
-Thank For Using Tool
-Termux Pentest Page https://www.facebook.com/termux.myanmar.user/
+figlet Install Access!
