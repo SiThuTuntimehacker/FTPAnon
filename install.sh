@@ -9,9 +9,10 @@ cd /etc/
 rm -rf vsftpd.conf
 cd 
 cd FTPAnon
-cp -r vsftpd.conf /etc/
-cd
-
+mv vsftpd.conf /etc/
+cd /etc/
+chmod +x *
+cd FTPAnon
 service vsftpd start
 
 
