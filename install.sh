@@ -1,5 +1,9 @@
 #!bin
 
+apt install figlet
+
+figlet FTP Anonymous Login
+
 apt install vsftpd
 
 apt-get install vsftpd
