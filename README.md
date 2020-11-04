@@ -9,7 +9,7 @@ cd FTPAnon
 
 bash install.sh
 
-![Screenshot](https://github.com/SiThuTuntimehacker/FTPAnon/blob/main/Screenshot_2020-10-29-04-06-49-376_com.termux.jpg)
+![Screenshot](https://github.com/SiThuTuntimehacker/FTPAnon/blob/main/IMG_20201104_164435.jpg)
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
